@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/Bug Queen.png</file>
+        <file>src/Bug Queen2.png</file>
+        <file>src/Error.mp3</file>
+        <file>src/Explosion.mp3</file>
+        <file>src/Laser1.mp3</file>
+        <file>src/laser1.png</file>
+        <file>src/laser2.png</file>
+        <file>src/laser3.png</file>
+        <file>src/laser4.png</file>
+        <file>src/Music.mp3</file>
+        <file>src/Shark.png</file>
+        <file>src/space-wallpaper-2.jpg</file>
+        <file>src/Squid.png</file>
+        <file>src/UpgradeDone.png</file>
+        <file>src/UpgradeReady.png</file>
+        <file>src/WorldFinal.png</file>
+    </qresource>
+</RCC>
